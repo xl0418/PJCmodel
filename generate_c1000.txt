@@ -1,0 +1,1 @@
+--torus L0=100 Lg=1000 L=1000 ticks=1e6 mu=0.01 nu=1e-6 s_nu=100 Psi=0.5 Phi=1e-6 s_jc=2 jc_cutoff=4 s_disp=10 disp_cutoff=20 file=c1000.m
