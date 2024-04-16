@@ -7,7 +7,7 @@ jcpp 2.2.0
 ```bash
 module load tbb/2020.3-GCCcore-10.2.0
 module load CMake
-git clone git@github.com:HHildenbrandt/jc2.git jc2
+git clone git@github.com:xl0418/PJCmodel.git jc2
 cd jc2
 mkdir build 
 cd build
@@ -18,7 +18,7 @@ cmake --build . --target install
 ## Linux
 ```bash
 apt install libtbb-dev   # or some other packet manager if not on Ubuntu/Debian
-git clone git@github.com:HHildenbrandt/jc2.git jc2
+git clone git@github.com:xl0418/PJCmodel.git jc2
 cd jc2
 mkdir build 
 cd build
